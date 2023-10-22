@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hello?git!");
         System.out.println("hello?git!");
         System.out.println("hello?git!");
-        System.out.println("hello?this is hot fix git!");
+        System.out.println("hello?git!");
+        System.out.println("testing commit and push!!!and SSH");
     }
 }
